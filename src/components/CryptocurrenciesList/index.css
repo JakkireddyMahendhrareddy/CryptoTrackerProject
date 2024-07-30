@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.image {
+  height: 5vh;
+  width: 5vw;
+}
+.blogs {
+  margin-right: 20px;
+  list-style-type: none;
+}

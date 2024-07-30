@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.head {
+  color: white;
+  font-size: 30px;
+}
+.lists {
+  display: flex;
+  margin-right: 20px;
+}

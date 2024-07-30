@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to bottom, #000000, #00e7ff, #092e33);
+  background-size: cover;
+  height: 100vh;
+}
+* {
+  margin: 0px;
+}
